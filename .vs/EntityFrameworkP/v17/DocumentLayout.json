@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkP\\Program.cs",
+              "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:36:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EntityFrameworkP\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\appsettings.Development.json",
+              "RelativeToolTip": "EntityFrameworkP\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T21:31:26.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkP\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\ApplicationDBContext.cs",
+              "RelativeToolTip": "EntityFrameworkP\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:27:45.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
