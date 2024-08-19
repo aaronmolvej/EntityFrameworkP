@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\migrations\\20240816154150_tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\migrations\\20240816154150_tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\entidades\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\entidades\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\entityframeworkp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\entityframeworkp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "20240816154150_Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Migrations\\20240816154150_Tareas.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkP\\Migrations\\20240816154150_Tareas.cs",
+              "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Migrations\\20240816154150_Tareas.cs",
+              "RelativeToolTip": "EntityFrameworkP\\Migrations\\20240816154150_Tareas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:41:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Entidades\\Tareas.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkP\\Entidades\\Tareas.cs",
+              "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Entidades\\Tareas.cs",
+              "RelativeToolTip": "EntityFrameworkP\\Entidades\\Tareas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:25:32.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Program.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\Program.cs",
               "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Program.cs",
               "RelativeToolTip": "EntityFrameworkP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T21:36:06.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T21:36:06.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\appsettings.Development.json",
               "RelativeDocumentMoniker": "EntityFrameworkP\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\appsettings.Development.json",
               "RelativeToolTip": "EntityFrameworkP\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-09T21:31:26.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\ApplicationDBContext.cs",
               "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\ApplicationDBContext.cs",
               "RelativeToolTip": "EntityFrameworkP\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T21:27:45.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T21:27:45.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityFrameworkP.csproj",
+              "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\EntityFrameworkP.csproj",
+              "RelativeDocumentMoniker": "EntityFrameworkP\\EntityFrameworkP.csproj",
+              "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\EntityFrameworkP.csproj",
+              "RelativeToolTip": "EntityFrameworkP\\EntityFrameworkP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T15:27:30.562Z"
             }
           ]
         }

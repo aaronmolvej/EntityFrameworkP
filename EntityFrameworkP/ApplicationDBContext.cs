@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using EntityFrameworkP.Entidades;
+using Microsoft.EntityFrameworkCore;
 
 namespace EntityFrameworkP
 {
@@ -7,6 +8,8 @@ namespace EntityFrameworkP
         public ApplicationDBContext(DbContextOptions options) : base(options) 
         {
 
-        }    
+        }
+        
+        public DbSet<Tareas> Tareas { get; set; }
     }
 }
