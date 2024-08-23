@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\views\\usuarios\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\views\\usuarios\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\models\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\models\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\entidades\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\entidades\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,18 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\migrations\\20240819210933_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\migrations\\20240819210933_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\models\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\models\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|solutionrelative:entityframeworkp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD9DFBCD-A898-40AA-B5E0-3C5C30BFB168}|EntityFrameworkP\\EntityFrameworkP.csproj|c:\\users\\manri\\source\\repos\\entityframeworkp\\entityframeworkp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,37 +78,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkP\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "EntityFrameworkP\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:22:04.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EntityFrameworkP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T23:15:12.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Views\\Usuarios\\_layout.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkP\\Views\\Usuarios\\_layout.cshtml",
+              "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Views\\Usuarios\\_layout.cshtml",
+              "RelativeToolTip": "EntityFrameworkP\\Views\\Usuarios\\_layout.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvw0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T23:14:48.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Registro.cshtml",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Views\\Usuarios\\Registro.cshtml",
               "RelativeDocumentMoniker": "EntityFrameworkP\\Views\\Usuarios\\Registro.cshtml",
               "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Views\\Usuarios\\Registro.cshtml",
               "RelativeToolTip": "EntityFrameworkP\\Views\\Usuarios\\Registro.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvx8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-23T22:15:16.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RegistroViewModel.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Models\\RegistroViewModel.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\Models\\RegistroViewModel.cs",
               "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Models\\RegistroViewModel.cs",
               "RelativeToolTip": "EntityFrameworkP\\Models\\RegistroViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T22:03:03.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkP\\Program.cs",
+              "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkP\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:36:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "20240819210933_Usuarios.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Migrations\\20240819210933_Usuarios.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\Migrations\\20240819210933_Usuarios.cs",
@@ -104,12 +168,11 @@
               "RelativeToolTip": "EntityFrameworkP\\Migrations\\20240819210933_Usuarios.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwL4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T21:09:33.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T21:09:33.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ArchivoAdjunto.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Entidades\\ArchivoAdjunto.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\Entidades\\ArchivoAdjunto.cs",
@@ -117,25 +180,24 @@
               "RelativeToolTip": "EntityFrameworkP\\Entidades\\ArchivoAdjunto.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T20:56:15.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T20:56:15.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Tarea.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Entidades\\Tarea.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\Entidades\\Tarea.cs",
               "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Entidades\\Tarea.cs",
               "RelativeToolTip": "EntityFrameworkP\\Entidades\\Tarea.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T15:25:32.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\ApplicationDBContext.cs",
@@ -143,25 +205,11 @@
               "RelativeToolTip": "EntityFrameworkP\\ApplicationDBContext.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T21:27:45.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T21:27:45.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Program.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkP\\Program.cs",
-              "ToolTip": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Program.cs",
-              "RelativeToolTip": "EntityFrameworkP\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T21:36:06.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "20240819210150_ArchivosAdjuntos.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Migrations\\20240819210150_ArchivosAdjuntos.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\Migrations\\20240819210150_ArchivosAdjuntos.cs",
@@ -169,12 +217,11 @@
               "RelativeToolTip": "EntityFrameworkP\\Migrations\\20240819210150_ArchivosAdjuntos.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T21:01:51.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T21:01:51.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "20240819205101_Pasos.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Migrations\\20240819205101_Pasos.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\Migrations\\20240819205101_Pasos.cs",
@@ -186,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Paso.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Entidades\\Paso.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\Entidades\\Paso.cs",
@@ -198,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "20240819203605_TituloConfigurado.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Migrations\\20240819203605_TituloConfigurado.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\Migrations\\20240819203605_TituloConfigurado.cs",
@@ -210,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "20240816154150_Tareas.cs",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\Migrations\\20240816154150_Tareas.cs",
               "RelativeDocumentMoniker": "EntityFrameworkP\\Migrations\\20240816154150_Tareas.cs",
@@ -222,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\appsettings.Development.json",
               "RelativeDocumentMoniker": "EntityFrameworkP\\appsettings.Development.json",
@@ -234,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "EntityFrameworkP.csproj",
               "DocumentMoniker": "C:\\Users\\manri\\source\\repos\\EntityFrameworkP\\EntityFrameworkP\\EntityFrameworkP.csproj",
               "RelativeDocumentMoniker": "EntityFrameworkP\\EntityFrameworkP.csproj",
