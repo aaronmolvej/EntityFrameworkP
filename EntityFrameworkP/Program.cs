@@ -1,4 +1,6 @@
 using EntityFrameworkP;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +10,20 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDBContext>(opciones => 
 opciones.UseSqlServer("name=DefaultConnection"));
+
+builder.Services.AddAuthentication();
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(opciones =>
+{
+    opciones.SignIn.RequireConfirmedAccount = false;
+}).AddEntityFrameworkStores<ApplicationDBContext>()
+.AddDefaultTokenProviders();
+
+builder.Services.PostConfigure<CookieAuthenticationOptions>(IdentityConstants.ApplicationScheme,
+    opciones =>
+    {
+        opciones.LoginPath = "/usuarios/login";
+        opciones.AccessDeniedPath = "/usuarios/login";
+    });
 
 var app = builder.Build();
 
@@ -24,6 +40,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

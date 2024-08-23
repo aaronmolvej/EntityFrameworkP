@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntityFrameworkP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7884f6e3fbbfeb324a0586f12c63373c7ed0c86c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4941e33f464844a8eea4017b3fe81425960f874a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntityFrameworkP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntityFrameworkP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
